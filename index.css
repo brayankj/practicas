@@ -2,3 +2,10 @@ header{
     width: 100%;
     text-align: center;
 }
+
+main p{
+    color: red;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0 auto;
+}
